@@ -1,5 +1,3 @@
-# Adapted from a learning-project workflow inspired by the codebasics ML course.
-
 import pandas as pd
 import joblib
 
